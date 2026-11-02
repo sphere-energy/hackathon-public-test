@@ -1,3 +1,4 @@
+see if outsiders can push / merge PRs.
 # Sphere Forge \#1: Prompt to CAD
 
 Welcome to Sphere's first hackathon! Can AI generate production-ready 3D CAD models directly from text prompts or images? We're putting it to the test at Sphere Forge #1!
